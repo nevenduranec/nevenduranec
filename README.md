@@ -1,7 +1,5 @@
 ### Hi there 👋
-### [https://digitalbits.hr/](https://digitalbits.hr/)
-
-![](https://raw.githubusercontent.com/nevenduranec/nevenduranec/master/animation.gif)
+[![https://digitalbits.hr/](https://raw.githubusercontent.com/nevenduranec/nevenduranec/master/animation.gif)](https://digitalbits.hr/)
 
 <!--
 **nevenduranec/nevenduranec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
